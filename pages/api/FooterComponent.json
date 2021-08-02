@@ -1,0 +1,23 @@
+[
+    {
+        "svg": "bi-emoji-smile",
+        "title":"Facile à utiliser",
+        "content":"Une interface utilisateur simple et utile qui vous aide à faire avancer les choses"
+    },
+    {
+        "svg": "bi-shield-fill-check",
+        "title":"Totalement sécurisé",
+        "content":"Toutes les méthodes et technologies de paiement prennent en compte la sécurité des données"
+    },
+    {
+        "svg": "bi-lightning-fill",
+        "title":"Livraison la plus rapide",
+        "content":"Les comptes que vous achetez seront livrés dès que possible"
+        
+    },
+    {
+        "svg": "bi-heart-fill",
+        "title":"Bonheur du client",
+        "content":"Nous sommes toujours là pour vous aider après ou avant votre achat"
+    }
+]

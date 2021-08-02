@@ -1,0 +1,23 @@
+{
+    "currency":"€",
+    "social":[
+        {
+            "name" : "facebook",
+            "svg":" bi-instagram",
+            "url": "https://www.instagram.com/falcon_srv/"
+        },
+        {
+            "name" : "instagram",
+            "svg":"bi-facebook",
+            "url": "https://www.facebook.com/Falconcom-189650932635666"
+        },
+        {
+            "name" : "email",
+            "svg":"bi-envelope-fill",
+            "url": "mailto:clesscontact@gmail.com"
+        }
+
+    ],
+
+    "email":"shopcless@gmail.com"
+}

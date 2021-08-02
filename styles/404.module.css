@@ -1,0 +1,219 @@
+.rootPageNotFound {
+
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.text404 * {
+  position: relative;
+  z-index: 10;
+  font-size: 10rem;
+  font-weight: bold;
+  font-family: Marker Felt, fantasy;
+  text-shadow: 0 1px 1px #bbb,
+    0 2px 0 #999,
+    0 3px 0 #888,
+    0 4px 0 #777,
+    0 5px 0 #666,
+    0 6px 0 #555,
+    0 7px 0 #444,
+    0 8px 0 #333,
+    0 9px 7px #302314;
+}
+
+.animation404 {
+  width: 0;
+  height: 0;
+}
+
+.animation404 i {
+  position: absolute;
+
+}
+
+.icon4404Basket {
+  color: gray;
+  font-size: 5rem;
+  bottom: 50%;
+  z-index: 0;
+  animation: basket-Horizontal 30s linear 2s infinite alternate;
+
+}
+
+
+@keyframes basket-Horizontal {
+  0% {
+    left: 0;
+  }
+
+  21% {
+    transform: rotate(-30deg);
+  }
+
+  40% {
+    left: 80%;
+    transform: rotate(360deg)
+  }
+
+  50% {
+    left: 60%;
+    transform: rotate(0deg)
+  }
+
+  60% {
+    left: 60%;
+  }
+
+  70% {
+    left: 90%;
+  }
+
+  100% {
+    left: 0%;
+  }
+}
+
+.icon4404Cloud {
+
+  color: gray;
+  font-size: 5rem;
+  bottom: 20%;
+  z-index: 0; 
+  animation: cloudAnim 50s linear 2s infinite alternate;
+
+
+}
+
+
+@keyframes cloudAnim {
+  0% {
+    left: 0;
+  }
+
+  10% {
+    bottom: 10%;
+    left: 50%;
+    transform: rotate(40deg)
+  }
+
+  40% {
+    bottom: 20%;
+    left: 90%;
+    transform: rotate(0deg)
+  }
+
+  60% {
+    bottom: 80%;
+    left: 50%;
+    transform: rotate(-20deg)
+  }
+
+  80% {
+    bottom: 20%;
+    left: 25%;
+    transform: rotate(40deg)
+  }
+
+  100% {
+    bottom: 20%;
+    left: 0%;
+    transform: rotate(0)
+  }
+}
+
+.text404 :nth-child(1) {
+  animation: first-foor 15s linear 2s infinite alternate;
+
+}
+
+.text404 :nth-child(2) {
+  animation: second-foor 15s linear 2s infinite alternate;
+}
+
+.text404 :nth-child(3) {
+  animation: third-foor 15s linear 2s infinite alternate;
+}
+
+
+@keyframes first-foor {
+  0% {
+    bottom: 0;
+  }
+
+  49% {
+    bottom: 1rem;
+  }
+
+  50% {
+    bottom: -4rem;
+  }
+
+  52% {
+    bottom: 0.5rem;
+  }
+
+  53% {
+    bottom: 0;
+  }
+
+  100% {
+    bottom: 0;
+  }
+}
+
+@keyframes second-foor {
+  0% {
+    bottom: 0;
+  }
+
+  51% {
+    bottom: 1rem;
+  }
+
+  52% {
+    bottom: -4rem;
+  }
+
+  53% {
+    bottom: 0.5rem;
+  }
+
+  54% {
+    bottom: 0;
+  }
+
+  100% {
+    bottom: 0;
+  }
+}
+
+@keyframes third-foor {
+  0% {
+    bottom: 0;
+  }
+
+  52% {
+    bottom: 1rem;
+  }
+
+  53% {
+    bottom: -4rem;
+  }
+
+  54% {
+    bottom: 0.5rem;
+  }
+
+  55% {
+    bottom: 0;
+  }
+
+  100% {
+    bottom: 0;
+  }
+}

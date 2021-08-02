@@ -1,0 +1,42 @@
+[
+  {
+    "req": "Qui sommes nous ?",
+    "res": "Nous sommes une boutique en ligne . nous offrons la possibilitée d’acter les meilleurs produits au meilleur prix avec une livraison de qualités. "
+  },
+  {
+    "req": "Comment effectuer  une commande ?",
+    "res": "Pour effectuer  un achat il vous suffit d'ajouter un produit au panier , dans l'onglet 'Panier' vous le retrouverai , il vous suffira donc d’appuyer sur le bouton de commande , choisir le type de livraison , Vous devrais ensuite continuer à fin d'effectuer le paient et choisir l’adresse de livraison."
+  },
+  {
+    "req": "Comment définir l'adresse de livraison?",
+    "res": "lors du paiement de vos produis ,il vous sera demander l’adresse de livraison, cette dernière nous sera utile pour vous livrer votre commande. "
+  },
+  {
+    "req": "Cette boutique a-elle  une quelconque association  liée au dropshiping?",
+    "res": "Cette boutique n'est en aucun cas liée de près ou de loin à du dropshiping , notre site web a été crée par des développeurs spécialisé ,des designers confirmées .nos fournisseurs sont des antitées sérieuses, et nos produits sont triées minutieusement. "
+  },
+  {
+    "req": "Quel est la Provence de nos produis?",
+    "res": "Nos produits sont généralement issus de fournisseur européen, turque et asiatique "
+  },
+  {
+    "req": "la chaîne de production de  nos produits respectent - ils la condition humaine et animal ? ",
+    "res": "le respect des droits de l'homme et le bien etre des enfants ainsi que des animaux et de environnement est une question capitale et une cause que nous défendons corps et âme , nous nous assurons toujours que nos produits sont issus de sources saine , respectant cette cause."
+  },
+  {
+    "req": "Que doit-je faire en cas de soucis avec un produit?",
+    "res": "en cas de soucis n'hésitez surtout pas a nous contacter sur nos réseau ou par email . nous réglerons au plus vite possible vos soucis. "
+  },
+  {
+    "req": "Puis-je Gagner de l'argent avec notre boutique ? ",
+    "res": "grâce à notre programme de partenariat ,vous pourrez recommander à vos amis , votre audience nos produit et leur faire bénéficier une réduction et gagner à votre tour de l'argent. "
+  },
+  {
+    "req": "Que doit-je  faire pour adhérer au partenariat ?",
+    "res": " Il vous es recommander de  remplir vos informations personnel sur les paramètres de votre profil après avoir crée un compte sur notre site . puis vous rendre dans la section affiliation  et faire une demande. une réponse vous sera communiquer au plus vite ."
+  },
+  {
+    "req": "Quel sont nos prix de livraison? ",
+    "res": "Nous possédons plusieurs offres de livrions celons vos envis et vos budget ,cs derniers vos propose de délais de livraison plus au moins rapide selon l'offre , pour les consultez rendez vous sur le panier pour les découvrir"
+  }
+]

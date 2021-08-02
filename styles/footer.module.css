@@ -1,0 +1,16 @@
+ 
+.footerCmponent{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    white-space: normal;
+}
+.footerCmponentChild {
+    width: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+    
+}

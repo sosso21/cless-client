@@ -1,0 +1,16 @@
+.listNoStyle li i {
+  cursor: pointer;
+} 
+.listNoStyle li   {
+  margin: 0.1rem;
+  list-style: none;  
+} 
+.bgProfil{
+  
+  width: 100%;
+  height: 100%;
+    background-image: url("/img/tour.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}

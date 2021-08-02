@@ -1,0 +1,68 @@
+.collectionText {
+  margin: 0 2rem;
+  font-size: 0.75rem;
+  position: relative;
+  top: 0.5rem;
+  font-style: italic;
+  white-space: nowrap;
+}
+
+.allPosts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: stretch;
+  align-content: space-between;
+}
+
+.allPosts li {
+  display: flex;
+  justify-content: left;
+  flex-direction: column;
+  list-style: none;
+  margin: 3rem 0.1rem;
+  
+  max-width: 12rem;
+  min-width: 6rem;
+  overflow: hidden;
+  text-overflow: hidden;
+}
+
+.ImgCartDiv {
+  display: block;
+  width: 100%;
+  height: 12rem;
+  max-height: 12rem;
+  min-height: 6rem;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+ 
+.soldeContent {
+  position: absolute;
+  transform: translate(-2rem) rotate(-10deg);
+display: flex;
+justify-content: center;
+align-items: center;
+  font-size: 2rem;
+  width: 6rem;
+  height: 6rem;
+  background: red;
+  color:white;
+  border-radius: 50%;
+}
+.titleProduct {
+  width: 100%;
+  padding: 0.25rem 1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 0.8rem;
+}
+
+@media (max-width: 768px) {
+  .allPosts {
+    justify-content: center;
+  }
+}
+
